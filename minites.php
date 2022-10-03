@@ -2,7 +2,7 @@
 //Fungsi menghitung nilai yang habis dibagi 3 dan 5
 function habisDibagi()
 {
-    //inisiasi awan nilai yang akan dihitung
+    //inisiasi awal nilai yang akan dihitung
     $i = 1;
     //while loop pertambahan nilai hingga 100
     while ($i <= 100) {
